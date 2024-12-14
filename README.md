@@ -33,4 +33,5 @@ basic-calculator/
 2. Open `index.html` in your browser.
 
 ## Contributing
+
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
