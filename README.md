@@ -2,7 +2,6 @@
 
 A lightweight and responsive calculator built with HTML, CSS, and JavaScript. This project showcases a basic arithmetic calculator capable of performing addition, subtraction, multiplication, and division.
 
----
 
 ## Features
 - Responsive and user-friendly interface.
