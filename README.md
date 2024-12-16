@@ -17,15 +17,15 @@ A lightweight and responsive calculator built with HTML, CSS, and JavaScript. Th
 basic-calculator/ 
 ├── assets/
 │   └── screenshot.png
-├── index.html # Main HTML file 
-├── styles.css # Styling for the calculator 
-├── script.js # JavaScript for calculator functionality 
-└── README.md # Documentation
+├── index.html                 # Main HTML file 
+├── styles.css                 # Styling for the calculator 
+├── script.js                  # JavaScript for calculator functionality 
+└── README.md                  # Documentation
 
 ## Usage
 1. Clone the repository:
 
-    ```bash
+    ```
     git clone https://github.com/marwan-ahmed-23/basic-calculator.git
     ```
 
