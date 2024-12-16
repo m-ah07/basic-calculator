@@ -25,7 +25,7 @@ basic-calculator/
 ## Usage
 1. Clone the repository:
 
-    ```
+    ```bash
     git clone https://github.com/marwan-ahmed-23/basic-calculator.git
     ```
 
