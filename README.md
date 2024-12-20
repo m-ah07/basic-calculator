@@ -11,7 +11,7 @@ A responsive and modern calculator built with HTML, CSS, and JavaScript. This pr
 
 ## Demo
 
-![calculator Demo](assets/screenshot.png "Demo of calculator App")
+![Basic calculator Demo](assets/screenshot.png "Demo of Basic calculator App")
 
 ## Directory Structure
 
