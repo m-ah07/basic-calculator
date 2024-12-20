@@ -8,19 +8,19 @@ A lightweight and responsive calculator built with HTML, CSS, and JavaScript. Th
 - Supports basic arithmetic operations.
 - Clean and simple design.
 
-## Screenshot
+## Demo
 
-![calculator Screenshot](assets/screenshot.png "Screenshot of calculator App")
+![calculator Demo](assets/screenshot.png "Demo of calculator App")
 
 ## Directory Structure
 
 basic-calculator/ 
 ├── assets/
 │   └── screenshot.png
-├── index.html # Main HTML file 
-├── styles.css # Styling for the calculator 
-├── script.js # JavaScript for calculator functionality 
-└── README.md # Documentation
+├── index.html                 # Main HTML file 
+├── styles.css                 # Styling for the calculator 
+├── script.js                  # JavaScript for calculator functionality 
+└── README.md                  # Documentation
 
 ## Usage
 1. Clone the repository:
