@@ -1,12 +1,13 @@
 # Basic Calculator
 
-A lightweight and responsive calculator built with HTML, CSS, and JavaScript. This project showcases a basic arithmetic calculator capable of performing addition, subtraction, multiplication, and division.
+A responsive and modern calculator built with HTML, CSS, and JavaScript. This project supports basic arithmetic operations and scientific functions like square roots, logarithms, and exponentiation.
 
 
 ## Features
-- Responsive and user-friendly interface.
-- Supports basic arithmetic operations.
-- Clean and simple design.
+- Basic arithmetic operations (+, -, *, /, %)
+- Scientific functions (√, x², log)
+- Calculation history
+- Responsive design for desktop and mobile
 
 ## Demo
 
