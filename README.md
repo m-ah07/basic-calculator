@@ -15,7 +15,7 @@ A responsive and modern calculator built with HTML, CSS, and JavaScript. This pr
 
 ## Directory Structure
 
-basic-calculator/ 
+basic-calculator/                                                                                                 
 ├── assets/                                                                                            
 │   └── screenshot.png                                                                            
 ├── index.html                 # Main HTML file                                                                         
