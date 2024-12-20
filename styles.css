@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f4f8;
+    background-color: #113946;
     margin: 0;
     display: flex;
     justify-content: center;
@@ -18,7 +18,7 @@ body {
 }
 
 input#display {
-    width: 100%;
+    width: 290px;
     height: 50px;
     margin-bottom: 10px;
     font-size: 18px;
