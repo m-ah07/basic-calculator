@@ -3,17 +3,17 @@
 A responsive and modern calculator built with HTML, CSS, and JavaScript. This project supports basic arithmetic operations and scientific functions like square roots, logarithms, and exponentiation.
 
 
-## Features
+## 🚀 Features
 - Basic arithmetic operations (+, -, *, /, %)
 - Scientific functions (√, x², log)
 - Calculation history
 - Responsive design for desktop and mobile
 
-## Demo
+## 📸 Demo
 
 ![Basic calculator Demo](assets/screenshot.png "Demo of Basic calculator App")
 
-## Directory Structure
+## 📂 Directory Structure
 ```plaintext
 basic-calculator/
 ├── assets/
@@ -33,6 +33,6 @@ basic-calculator/
 
 2. Open `index.html` in your browser.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
