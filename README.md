@@ -19,13 +19,13 @@ basic-calculator/
 ├── assets/
 │   └── screenshot.png
 ├── LICENSE
-├── index.html                        # Main HTML file
-├── styles.css                        # Styling for the calculator
-├── script.js                         # JavaScript for calculator functionality
-└── README.md                         # Documentation
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
 ```
 
-## Usage
+## 📖 Usage
 1. Clone the repository:
 
     ```bash
