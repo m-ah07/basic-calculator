@@ -18,6 +18,7 @@ A responsive and modern calculator built with HTML, CSS, and JavaScript. This pr
 basic-calculator/
 ├── assets/
 │   └── screenshot.png
+├── LICENSE
 ├── index.html                        # Main HTML file
 ├── styles.css                        # Styling for the calculator
 ├── script.js                         # JavaScript for calculator functionality
