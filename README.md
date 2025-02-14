@@ -39,7 +39,7 @@ Clone and Run Locally:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/marwan-ahmed-23/basic-calculator.git
+    git clone https://github.com/m-ah07/basic-calculator.git
     ```
 
 2. Navigate to the project directory:
